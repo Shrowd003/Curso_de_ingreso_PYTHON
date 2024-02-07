@@ -6,8 +6,8 @@ import customtkinter
 import math
 
 '''
-nombre:
-apellido:
+nombre: Nicolás Valentín
+apellido: Fernandez Assel
 ---
 TP: ES_Camioneros
 ---
